@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gilroy";
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin-top: 60px;
+}
+#box1 {
+  height: 100px;
+  width: 300px;
+  background-color: rgb(243, 117, 33);
+}
+#box2 {
+  height: 100px;
+  width: 300px;
+  background-color: rgb(221, 217, 217);
+}
+#box3 {
+  height: 100px;
+  width: 300px;
+  background-color: rgb(33, 171, 6);
+}
